@@ -1,7 +1,7 @@
 # Hi there  I'm Egor 👋
 -  I live in Moscow, Russia.
 
-#### CV: [ML_Egor_resume.pdf]() 
+#### CV: [ML_Egor_resume.pdf](https://github.com/Gerc0g/Gerc0g/blob/b65ee6c840158f3a7c87e94f7d16e3929333a2a6/Logutov_Egor_resume_jan_2025.pdf) 
 ## 🛠 My fancy badge area
 [![LeetCode user Gerc0g](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGerc0g&logo=leetcode&logoColor=yellow)](https://leetcode.com/Gerc0g/)
 
